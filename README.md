@@ -45,16 +45,26 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
     </a>
   </div>
 
+  <div style="border:1px solid #c0ebff; border-radius:10px; padding:1em; margin-bottom:1em; background:#f6fcff;">
 
-🐍 Python Shop Page
+<h3>🐍 Python Shop Page</h3>
 
-**Description:** Add items to a shop page using Django Admin
-🔗 [https://github.com/madikaeee/DjangoAdmin]
+<p>**Description:** Add items to a shop page using Django Admin</p>
+<a href="https://github.com/madikaeee/DjangoAdmin" target="_blank"
+       style="background:#59bfff; color:white; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:600;">
+       🔗 Shop Page
+    </a>
+  </div>
 
-🐍 Python Event Regestration
+  <div style="border:1px solid #f3c4f5; border-radius:10px; padding:1em; margin-bottom:1em; background:#fff6ff;">
+  
+<h3>🐍 Python Event Regestration</h3>
 
-**Description:** Sign up for an event, add dietary preferences, select a session and view those resgistered for the event
-🔗 [https://github.com/madikaeee/EventRegistration]
+<p>**Description:** Sign up for an event, add dietary preferences, select a session and view those resgistered for the event</p>
+<a href="https://github.com/madikaeee/EventRegistration" target="_blank"
+       style="background:#e88acb; color:white; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:600;">
+       🔗 Event Registration
+    </a>
   </div>
 </details>
 
