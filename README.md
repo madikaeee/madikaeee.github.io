@@ -59,6 +59,28 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
     </a>
   </div>
 
+<div style="border:1px solid #f3c4f5; border-radius:12px; padding:1em; margin-bottom:1em; background:#fff6ff;">
+  <h3>🐍 Python Gallery Uploader</h3>
+  <p><b>Description:</b>Upload and view images in gallery</p>
+
+<a href="https://github.com/madikaeee/GalleryUploader" target="_blank"
+     style="background:#e88acb; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
+     🔗 Gallery
+  </a>
+</div>
+
+
+
+ <div style="border:1px solid #c0ebff; border-radius:12px; padding:1em; margin-bottom:1em; background:#f6fcff;">
+  <h3>🐍 Pyhton Library API</h3>
+  <p><b>Description:</b>Create a library using API</p>
+
+<a href="https://github.com/madikaeee/libraryAPI" target="_blank"
+     style="background:#e88acb; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
+     🔗 Library API
+  </a>
+</div>
+
 </details>
 
 
