@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: null
 title: Madison Christensen | Portfolio
 description: Computer Science Student | ISSO at BAE Systems | Future M.S. Cybersecurity & Infomration Assurace Student |
+markdown: kramdown
