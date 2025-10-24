@@ -11,7 +11,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
 <blockquote>
 **Description:** A text-based adventure using loops, file I/O, and branching logic.  
-🔗 <a href="https://github.com/madikaeee/jungle-adventure-game">View on GitHub</a>
+🔗 <a href="[https://github.com/madikaeee/jungle-adventure-game](https://github.com/madikaeee/CS3620_Project1)">Jungle Adventure</a>
 </blockquote>
 
 
