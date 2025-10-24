@@ -13,7 +13,16 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
 
 🐍 Python Hobbies Page
-**Description:** "Blog" showing my hobbies using Django
 
+**Description:** "Blog" showing my hobbies using Django
 🔗 [View on GitHub](https://github.com/madikaeee/CS3620_Portfolio)
 
+🐍 Python Shop Page
+
+**Description:** Add items to a shop page using Django Admin
+🔗 [View on GitHub](https://github.com/madikaeee/DjangoAdmin)
+
+🐍 Python Event Regestration
+
+**Description:** Sign up for an event, add dietary preferences, select a session and view those resgistered for the event
+🔗 [View on GitHub](https://github.com/madikaeee/EventRegistration)
