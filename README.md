@@ -20,8 +20,15 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
 🚀 Featured Projects
 
-🐍 Python Jungle Adventure Game  
 
+
+<details open>
+  <summary><b>🐍 Python Projects</b></summary>
+
+  <div style="margin-left:1rem; margin-top:0.5rem;">
+
+    
+🐍 Python Jungle Adventure Game  
 
 **Description:** A text-based adventure using loops, file I/O, and branching logic.  
 🔗 <a href="[https://github.com/madikaeee/jungle-adventure-game](https://github.com/madikaeee/CS3620_Project1)">Jungle Adventure</a>
@@ -41,7 +48,8 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
 **Description:** Sign up for an event, add dietary preferences, select a session and view those resgistered for the event
 🔗 [https://github.com/madikaeee/EventRegistration]
-
+  </div>
+</details>
 
 
 
