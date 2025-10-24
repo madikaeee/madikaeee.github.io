@@ -14,12 +14,12 @@ Welcome to my computer science portfolio!
 This site highlights my coursework throughout my 3.5 years at Weber State Univeristy. 
 
 
-🚀 Featured Projects
+<b>🚀 Featured Projects<b>
 
 
 
 <details open>
-  <summary><b>🐍 Python Projects</b></summary>
+  <summary><b>🐍 Python</b></summary>
   <br>
 
   <div style="border:1px solid #f3c4f5; border-radius:10px; padding:1em; margin-bottom:1em; background:#fff6ff;">
@@ -67,8 +67,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
        🔗 Event Registration
     </a>
   </div>
-  
-</details>
+  </details>
 
 
 
