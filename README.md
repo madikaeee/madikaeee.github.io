@@ -1,3 +1,17 @@
+<h1 align="center"> Madison Christensen </h1>
+<p align="center">
+🎓 <b>Computer Science Student</b> at <b>Weber State University</b><br>
+💼 ISSO at <b>BAE Systems</b> | 🎯 Soon-to-be <b>Master’s Student in Cybersecurity & Information Assurance</b><br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/madikaeee"><b>🔗 View My GitHub Profile</b></a>
+</p>
+
+
+
+
+
 Hi, I'm Madison Christensen
 
 Welcome to my computer science portfolio!  
@@ -9,10 +23,8 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 🐍 Python Jungle Adventure Game  
 
 
-<blockquote>
 **Description:** A text-based adventure using loops, file I/O, and branching logic.  
 🔗 <a href="[https://github.com/madikaeee/jungle-adventure-game](https://github.com/madikaeee/CS3620_Project1)">Jungle Adventure</a>
-</blockquote>
 
 
 🐍 Python Hobbies Page
