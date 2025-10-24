@@ -10,10 +10,6 @@
 
 
 
-
-
-Hi, I'm Madison Christensen
-
 Welcome to my computer science portfolio!  
 This site highlights my coursework throughout my 3.5 years at Weber State Univeristy. 
 
@@ -24,20 +20,26 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
 <details open>
   <summary><b>🐍 Python Projects</b></summary>
+  <br>
 
-  <div style="margin-left:1rem; margin-top:0.5rem;">
+  <div style="border:1px solid #f3c4f5; border-radius:10px; padding:1em; margin-bottom:1em; background:#fff6ff;">
+    
+<h3>🐍 Python Jungle Adventure Game </h3>
+
+<p>**Description:** A text-based adventure using loops, file I/O, and branching logic.  <p>
+🔗 <a href="https://github.com/madikaeee/CS3620_Project1" target="_blank" style="background:#e88acb; color:white; padding:8px 14px; border-radius:6px; text-decoration:none;>Jungle Adventure</a>
+    </div>
 
     
-🐍 Python Jungle Adventure Game  
+  <div style="border:1px solid #c0ebff; border-radius:10px; padding:1em; margin-bottom:1em; background:#f6fcff;">
 
-**Description:** A text-based adventure using loops, file I/O, and branching logic.  
-🔗 <a href="[https://github.com/madikaeee/jungle-adventure-game](https://github.com/madikaeee/CS3620_Project1)">Jungle Adventure</a>
+<h3>🐍 Pthon Hobbies Page</h3>
 
-
-🐍 Python Hobbies Page
-
-**Description:** "Blog" showing my hobbies using Django
+<p>**Description:** "Blog" showing my hobbies using Django.</p>
 🔗 [https://github.com/madikaeee/CS3620_Portfolio]
+
+  </div>
+
 
 🐍 Python Shop Page
 
