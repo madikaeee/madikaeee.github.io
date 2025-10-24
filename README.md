@@ -27,7 +27,8 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 <h3>🐍 Python Jungle Adventure Game </h3>
 
 <p>**Description:** A text-based adventure using loops, file I/O, and branching logic.  <p>
-🔗 <a href="https://github.com/madikaeee/CS3620_Project1" target="_blank" style="background:#e88acb; color:white; padding:8px 14px; border-radius:6px; text-decoration:none;>Jungle Adventure</a>
+   [🔗 Jungle Adventure](https://github.com/madikaeee/CS3620_Project1)
+
     </div>
 
     
