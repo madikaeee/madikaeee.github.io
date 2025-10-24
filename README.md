@@ -34,7 +34,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
   </div>
 
     
-  <div style="border:1px solid #c0ebff; border-radius:10px; padding:1em; margin-bottom:1em; background:#f6fcff;">
+   <div style="border:1px solid #f3c4f5; border-radius:10px; padding:1em; margin-bottom:1em; background:#fff6ff;">
 
 <h3>🐍 Python Hobbies Page</h3>
 
@@ -66,6 +66,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
        🔗 Event Registration
     </a>
   </div>
+  
 </details>
 
 
@@ -112,7 +113,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* 🌷 Buttons */
 .btn {
   display: inline-block;
   background-color: #ffb3c1;
@@ -131,7 +131,6 @@ a:hover {
   transform: translateY(-2px);
 }
 
-/* 🌼 Section Dividers */
 hr {
   border: none;
   height: 1px;
@@ -139,19 +138,5 @@ hr {
   margin: 2.5em 0;
   border-radius: 50%;
 }
-
-/* 🩵 Blockquotes */
-blockquote {
-  background: #fff0f6;
-  border-left: 4px solid #ffb3c1;
-  margin: 1.5em auto;
-  padding: 1em 1.2em;
-  border-radius: 10px;
-  color: #444;
-  max-width: 700px;
-  text-align: left;
-  font-style: italic;
-}
-
 
 </style>
