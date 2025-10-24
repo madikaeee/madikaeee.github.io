@@ -29,15 +29,15 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 <p>**Description:** A text-based adventure using loops, file I/O, and branching logic.  <p>
    [🔗 Jungle Adventure](https://github.com/madikaeee/CS3620_Project1)
 
-    </div>
+  </div>
 
     
   <div style="border:1px solid #c0ebff; border-radius:10px; padding:1em; margin-bottom:1em; background:#f6fcff;">
 
-<h3>🐍 Pthon Hobbies Page</h3>
+<h3>🐍 Python Hobbies Page</h3>
 
 <p>**Description:** "Blog" showing my hobbies using Django.</p>
-🔗 [https://github.com/madikaeee/CS3620_Portfolio]
+🔗 [Hobbies](https://github.com/madikaeee/CS3620_Portfolio)
 
   </div>
 
