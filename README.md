@@ -35,56 +35,86 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
 <style>
 body {
-  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  background-color: #fffafc;
+  color: #333;
   text-align: center;
-  line-height: 1.6;
-  color: #222;
-  background-color: #fafafa;
   margin: 0 auto;
   max-width: 900px;
-  padding: 2em;
+  padding: 2rem;
+  line-height: 1.7;
 }
-h1, h2 {
-  color: #1a1a1a;
+
+h1, h2, h3 {
+  font-family: "Poppins", sans-serif;
+  color: #d16ba5;
   font-weight: 700;
+  letter-spacing: 0.5px;
 }
-h3 {
-  color: #333;
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.3em;
 }
+
+h2 {
+  font-size: 1.6em;
+  margin-top: 2em;
+  color: #b65fcf;
+}
+
+
 a {
-  color: #007acc;
+  color: #ff7eb3;
   text-decoration: none;
   font-weight: 600;
 }
+
 a:hover {
+  color: #ffb3c1;
   text-decoration: underline;
 }
-blockquote {
-  background: #f9f9f9;
-  border-left: 4px solid #007acc;
-  margin: 1em 0;
-  padding: 0.8em 1em;
-  border-radius: 8px;
-  display: inline-block;
-  text-align: left;
-}
+
+/* 🌷 Buttons */
 .btn {
   display: inline-block;
-  background-color: #007acc;
+  background-color: #ffb3c1;
   color: white !important;
   padding: 10px 18px;
-  border-radius: 6px;
-  margin: 10px 0;
+  border-radius: 8px;
+  margin: 12px 0;
   text-decoration: none;
   font-weight: 600;
+  box-shadow: 0 2px 5px rgba(255, 182, 193, 0.3);
+  transition: all 0.2s ease-in-out;
 }
+
 .btn:hover {
-  background-color: #005fa3;
+  background-color: #ff8fab;
+  transform: translateY(-2px);
 }
+
+/* 🌼 Section Dividers */
 hr {
   border: none;
-  border-top: 1px solid #ddd;
-  margin: 2em 0;
+  height: 1px;
+  background: linear-gradient(to right, #f9d1e4, #fcd5ce, #f9d1e4);
+  margin: 2.5em 0;
+  border-radius: 50%;
 }
-</style>
 
+/* 🩵 Blockquotes */
+blockquote {
+  background: #fff0f6;
+  border-left: 4px solid #ffb3c1;
+  margin: 1.5em auto;
+  padding: 1em 1.2em;
+  border-radius: 10px;
+  color: #444;
+  max-width: 700px;
+  text-align: left;
+  font-style: italic;
+}
+
+
+</style>
