@@ -34,7 +34,8 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
   </div>
 
     
-   <div style="border:1px solid #f3c4f5; border-radius:10px; padding:1em; margin-bottom:1em; background:#fff6ff;">
+   <div style="border:1px solid #c0ebff; border-radius:10px; padding:1em; margin-bottom:1em; background:#f6fcff;">
+
 
 <h3>🐍 Python Hobbies Page</h3>
 
@@ -45,8 +46,8 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
     </a>
   </div>
 
-  <div style="border:1px solid #c0ebff; border-radius:10px; padding:1em; margin-bottom:1em; background:#f6fcff;">
 
+  <div style="border:1px solid #f3c4f5; border-radius:10px; padding:1em; margin-bottom:1em; background:#fff6ff;">
 <h3>🐍 Python Shop Page</h3>
 
 <p>**Description:** Add items to a shop page using Django Admin</p>
@@ -56,7 +57,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
     </a>
   </div>
 
-  <div style="border:1px solid #f3c4f5; border-radius:10px; padding:1em; margin-bottom:1em; background:#fff6ff;">
+ <div style="border:1px solid #c0ebff; border-radius:10px; padding:1em; margin-bottom:1em; background:#f6fcff;">
   
 <h3>🐍 Python Event Regestration</h3>
 
