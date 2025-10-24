@@ -76,7 +76,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
   <p><b>Description:</b> Create a library using API</p>
 
 <a href="https://github.com/madikaeee/libraryAPI" target="_blank"
-     style="background:#e88acb; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
+       style="background:#59bfff; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
      🔗 Library API
   </a>
 </div>
@@ -94,6 +94,25 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
 
 
+ <div style="border:1px solid #c0ebff; border-radius:12px; padding:1em; margin-bottom:1em; background:#f6fcff;">
+  <h3>🐍 Python Community Hub</h3>
+  <p><b>Description:</b> Add Events to a commuity hub</p>
+
+<a href="https://github.com/madikaeee/communityhub" target="_blank"
+       style="background:#59bfff; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
+     🔗 Community Hub
+  </a>
+</div>
+
+<div style="border:1px solid #f3c4f5; border-radius:12px; padding:1em; margin-bottom:1em; background:#fff6ff;">
+  <h3>🐍 Python Nework Practice</h3>
+  <p><b>Description:</b> Check if websites are real or not</p>
+
+<a href="https://github.com/madikaeee/Mod5NetworkPractice" target="_blank"
+     style="background:#e88acb; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
+     🔗 Network Practice
+  </a>
+</div>
 
 </details>
 
