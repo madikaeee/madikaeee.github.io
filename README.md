@@ -127,7 +127,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 </details>
 
 <details open>
-  <summary><b>#️⃣ C# Projects</b></summary>
+  <summary><b>#️⃣ C# </b></summary>
   <br>
 
   <div style="border:1px solid #d6c5f5; border-radius:12px; padding:1em; margin-bottom:1em; background:#f8f5ff;">
