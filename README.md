@@ -142,6 +142,13 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
   </div>
 </details>
 
+<details open>
+  <summary><b> </> HTML </b></summary>
+  <br>
+
+ 
+</details>
+
 
 
 
