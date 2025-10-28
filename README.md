@@ -117,7 +117,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
  <div style="border:1px solid #c0ebff; border-radius:12px; padding:1em; margin-bottom:1em; background:#f6fcff;">
   <h3>🐍 Python Headline Scraper</h3>
-  <p><b>Description:</b> Scrap 10 headlines from KSL</p>
+  <p><b>Description:</b> Scrape 10 headlines from KSL</p>
 
 <a href="https://github.com/madikaeee/Mod6WebScraper" target="_blank"
        style="background:#59bfff; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
@@ -133,7 +133,7 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
   <div style="border:1px solid #d6c5f5; border-radius:12px; padding:1em; margin-bottom:1em; background:#f8f5ff;">
     <h3>#️⃣ C# Grade Calculator </h3>
 
-  <p><b>Description:</b> /b>, Create a gradebook in C# </p>
+  <p><b>Description:</b>, Create a gradebook in C# </p>
 
   <a href="https://github.com/madikaeee/assignment3-CS3280" target="_blank"
        style="background:#9a6df2; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:600;">
