@@ -137,18 +137,51 @@ This site highlights my coursework throughout my 3.5 years at Weber State Univer
 
   <a href="https://github.com/madikaeee/assignment3-CS3280" target="_blank"
        style="background:#9a6df2; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:600;">
-       🔗Grade calculator
+       🔗 Grade Calculator
+    </a>
+  </div>
+  
+<div style="border:1px solid #b3e0ff; border-radius:12px; padding:1em; margin-bottom:1em; background:#f0faff;">
+    <h3>#️⃣ C# Dice Guessing Game</h3>
+    <p><b>Description:</b> Guess what the dice roll will be </p>
+    <a href="https://github.com/madikaeee/assignment2CS3280" target="_blank"
+       style="background:#6dbaf2; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:600;">
+       🔗 Guess The Roll
+    </a>
+  </div>
+  
+ <div style="border:1px solid #d6c5f5; border-radius:12px; padding:1em; margin-bottom:1em; background:#f8f5ff;">
+    <h3>#️⃣ C# Food Delivery App </h3>
+    <p><b>Description:</b> A multi-feature food delivery platform with order management, menu updates, and delivery tracking.</p>
+    <a href="https://github.com/madikaeee/BiteByBite" target="_blank"
+       style="background:#9a6df2; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:600;">
+       🔗 Bite By Byte
+    </a>
+  </div>
+
+  <div style="border:1px solid #b3e0ff; border-radius:12px; padding:1em; margin-bottom:1em; background:#f0faff;">
+    <h3>#️⃣ C# Math Game </h3>
+    <p><b>Description:</b> Space themed math game </p>
+    <a href="https://github.com/madikaeee/assignment5-CS3280" target="_blank"
+       style="background:#6dbaf2; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:600;">
+       🔗 Space Math
     </a>
   </div>
 </details>
 
-<details open>
+
+  <details open>
   <summary><b> </> HTML </b></summary>
   <br>
-
- 
+  <div style="border:1px solid #f5c5d9; border-radius:12px; padding:1em; margin-bottom:1em; background:#fff5fa;">
+    <h3>🌐 HTML Portfolio Website</h3>
+    <p><b>Description:</b> Portfolio from second semester in HTML </p>
+    <a href="https://github.com/madikaeee/assignment7-CS2350" target="_blank"
+       style="background:#e88acb; color:white; padding:8px 16px; border-radius:8px; text-decoration:none; font-weight:600;">
+       🔗 Portfolio 
+    </a>
+  </div>
 </details>
-
 
 
 
