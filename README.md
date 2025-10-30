@@ -8,9 +8,8 @@
   <a href="https://github.com/madikaeee"><b>🔗 View My GitHub Profile</b></a>
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/madison-christensen22"><b>🔗 View My LinkedIn Profile</b></a>
+  <a href="https://www.linkedin.com/in/madison-christensen22"><b>🔗 Connect with me on LinkedIn</b></a>
 </p>
-
 
 Welcome to my computer science portfolio!  
 This site highlights my coursework throughout my 3.5 years at Weber State Univeristy that i still have access to. 
