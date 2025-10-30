@@ -15,7 +15,7 @@ Welcome to my computer science portfolio!
 This site highlights my coursework throughout my 3.5 years at Weber State Univeristy that i still have access to. 
 
 
-<br><b>🚀 Featured Projects<b></br>
+<br><b>🚀 Featured Projects<b><br>
 
 
 
