@@ -7,7 +7,10 @@
 <p align="center">
   <a href="https://github.com/madikaeee"><b>🔗 View My GitHub Profile</b></a>
 </p>
-
+<p align="center">
+  <a href="www.linkedin.com/in/madison-christensen22
+"><b>🔗 View My LinkedIn Profile</b></a>
+</p>
 
 
 Welcome to my computer science portfolio!  
