@@ -1,8 +1,8 @@
 <h1 align="center"> Madison Christensen </h1>
 <p align="center">
 🎓 <b>Computer Science Student</b> at <b>Weber State University</b><br>
-💼 Soon-to-be ISSO at <b>BAE Systems</b> | <b>Security+ Certified <b> | Soon-to-be <b>Master’s Student in Cybersecurity & Information Assurance</b><br>
-</p>
+Soon-to-be ISSO at <b>BAE Systems</b> | <b>Security+ Certified <b> | Soon-to-be <b>Master’s Student in Cybersecurity & Information Assurance</b><br>
+
 
 <p align="center">
   <a href="https://github.com/madikaeee"><b>🔗 View My GitHub Profile</b></a>
