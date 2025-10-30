@@ -12,7 +12,7 @@ Soon-to-be ISSO at <b>BAE Systems</b> | <b>Security+ Certified <b> | Soon-to-be 
 </p>
 
 Welcome to my computer science portfolio!  
-This site highlights my coursework throughout my 3.5 years at Weber State Univeristy that i still have access to. 
+This site highlights my coursework throughout my 3.5 years at Weber State Univeristy that i still have access to. <br>
 
 
 <br><b>🚀 Featured Projects<b><br>
